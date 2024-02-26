@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm <a href="https://github.com/nayuki0115">Annie Wu</a> ! ! ✨</h1>
 
-## Frontend Tech Stack
+## Frontend Tech Stack 💻
 <section>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img width="40" height="40" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript"></a>  
   <a href="https://www.typescriptlang.org/" target="_blank"><img width="40" height="40" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript"></a> 
@@ -9,6 +9,11 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img width="40" height="40" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html"></a> 
   <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics" target="_blank"><img width="40" height="40" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css"></a> 
   <a href="https://jquery.com/" target="_blank"><img width="40" height="40" src="https://www.vectorlogo.zone/logos/jquery/jquery-vertical.svg" alt="jquery"></a> 
+</section>
+
+## Others 😎
+<section>
+  <a href="[https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://git-scm.com/)" target="_blank"><img width="40" height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git"></a>  
 </section>
 
 
