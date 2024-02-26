@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm <a href="https://github.com/nayuki0115">Annie Wu</a> ! ! ✨</h1>
 
-## Frontend Tech Stack 💻
+## Frontend Tech Stack
 <section>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img width="40" height="40" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript"></a>  
   <a href="https://www.typescriptlang.org/" target="_blank"><img width="40" height="40" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript"></a> 
@@ -11,10 +11,17 @@
   <a href="https://jquery.com/" target="_blank"><img width="40" height="40" src="https://www.vectorlogo.zone/logos/jquery/jquery-vertical.svg" alt="jquery"></a> 
 </section>
 
-## Others 😎
+## Others
 <section>
-  <a href="[https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://git-scm.com/)" target="_blank"><img width="40" height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git"></a>  
+  <a href="https://git-scm.com/" target="_blank"><img width="40" height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git"></a>  
 </section>
+
+## How to reach me
+<section>
+  <a href="https://www.linkedin.com/in/nayuki0115/" target="_blank"><img width="40" height="40" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn"></a>  
+  <a href="https://github.com/nayuki0115" target="_blank"><img width="40" height="40" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github"></a>  
+</section>
+
 
 
 
