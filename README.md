@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm <a href="https://www.cakeresume.com/nayuki0115">Annie Wu</a> ! ! ✨</h1>
+<h1 align="center">Hi, I'm <a href="https://nayuki0115.github.io/">Annie Wu</a> ! ! ✨</h1>
 
 ## Frontend Tech Stack
 <section>
