@@ -21,7 +21,7 @@
   <a href="mailto:annie25506@gmail.com"><img width="50" height="40" src="https://logowik.com/content/uploads/images/grunge-mail3692.jpg" alt="mail"></a>
   <a href="https://www.linkedin.com/in/nayuki0115/" target="_blank"><img width="40" height="40" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn"></a>  
   <a href="https://github.com/nayuki0115" target="_blank"><img width="40" height="40" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github"></a>  
-  <a href="https://www.cakeresume.com/nayuki0115" target="_blank"><img width="60" height="45" src="https://logowik.com/content/uploads/images/information6038.jpg" alt="cakeresume"></a> 
+  <a href="https://www.cake.me/nayuki0115" target="_blank"><img width="60" height="45" src="https://logowik.com/content/uploads/images/information6038.jpg" alt="cakeresume"></a> 
 </section>
 
 
