@@ -16,7 +16,7 @@
   <a href="https://git-scm.com/" target="_blank"><img width="40" height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git"></a>  
 </section>
 
-## How to reach me
+## How to contact me
 <section>
   <a href="mailto:annie25506@gmail.com"><img width="50" height="40" src="https://logowik.com/content/uploads/images/grunge-mail3692.jpg" alt="mail"></a>
   <a href="https://www.linkedin.com/in/nayuki0115/" target="_blank"><img width="40" height="40" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn"></a>  
