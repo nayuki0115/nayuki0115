@@ -3,7 +3,7 @@
 ## Frontend Tech Stack
 <section>
   
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://svg2raster.fileformat.info/vlz.jsp?svg=%2Flogos%2Fjavascript%2Fjavascript-ar21.svg" alt="javascript"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" alt="javascript"></a>
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" alt="typescript"></a>  
   <a href="https://vuejs.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg" alt="vue"></a> 
   <a href="https://nuxt.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-ar21.svg" alt="Nuxt"></a>  
@@ -14,7 +14,7 @@
 
 ## Others
 <section>
-  <a href="https://git-scm.com/" target="_blank"><img width="40" height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git"></a>  
+  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git"></a>  
 </section>
 
 ## How to contact me
