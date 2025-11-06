@@ -1,4 +1,17 @@
 <h1 align="center">Hi, I'm <a href="https://nayuki0115.github.io/">Annie Wu</a> ! ! ✨</h1>
+<p align="center">Senior Front-End Engineer · Vue / Nuxt / TypeScript Specialist · 8+ Years of Experience</p>
+
+---
+
+## About Me
+
+-  8+ years of front-end development experience
+-  Specializing in **Vue 2/3**, **Nuxt 2/3**, **TypeScript**, with modular design and i18n experience
+-  Recently working on **Monorepo architecture**, **Node.js CLI tools**, and onboarding systems
+-  Also exploring **React 19 + Vite** in side projects
+-  Proven experience in **leading teams**, mentoring juniors, and building coding guidelines
+
+---
 
 ## Frontend Tech Stack
 <section>
