@@ -7,7 +7,7 @@
 
 -  8+ years of front-end development experience
 -  Specializing in **Vue 2/3**, **Nuxt 2/3**, **TypeScript**, with modular design and i18n experience
--  Recently working on **Monorepo architecture**, **Node.js CLI tools**, and onboarding systems
+-  Recently working on **Monorepo architecture**, **Node.js CLI tools**
 -  Also exploring **React 19 + Vite** in side projects
 -  Proven experience in **leading teams**, mentoring juniors, and building coding guidelines
 
